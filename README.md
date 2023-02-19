@@ -3,7 +3,8 @@ an auto splitter for Untitled Magnet Game v3
 Only works on windows at the moment
 
 ## How to install
-To install the auto splitter you will need to install a mod for UMG and also run a "translation layer" between UMG and live split
+To install the auto splitter you will need to install a mod for UMG and also run a "translation layer" between UMG and live split.
+Video tutorial: https://youtu.be/dstxDy5KQAA 
 ### Install UMG mod
 1. Open your UMG v3 install folder
 2. Go to \Untitled Magnet Game_Data\Managed\
